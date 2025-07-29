@@ -22,23 +22,23 @@ All game data is stored locally on your device and is not transmitted to our ser
 
 ## Data Storage
 
-- **Local Storage**: All game data, scores, and settings are stored locally on your device
-- **No Cloud Storage**: We do not use cloud storage or sync your data
-- **No Analytics**: We do not collect analytics or tracking data
+- **Local Storage:** All game data, scores, and settings are stored locally on your device
+- **No Cloud Storage:** We do not use cloud storage or sync your data
+- **No Analytics:** We do not collect analytics or tracking data
 
 ## Third-Party Services
 
 Our app uses the following third-party services:
 
 ### Expo (Development Platform)
-- **Purpose**: App development and build services
-- **Data**: No user data is shared with Expo
-- **Privacy**: [Expo Privacy Policy](https://expo.dev/privacy)
+- **Purpose:** App development and build services
+- **Data:** No user data is shared with Expo
+- **Privacy:** [Expo Privacy Policy](https://expo.dev/privacy)
 
 ### React Native
-- **Purpose**: App framework
-- **Data**: No data collection
-- **Privacy**: [React Native Privacy](https://reactnative.dev/)
+- **Purpose:** App framework
+- **Data:** No data collection
+- **Privacy:** [React Native Privacy](https://reactnative.dev/)
 
 ## Children's Privacy
 
@@ -55,8 +55,8 @@ We may update this Privacy Policy from time to time. We will notify users of any
 ## Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
-- Email: eddy.cui@outlook.com
-- GitHub: [Project Repository](https://github.com/your-username/tic-tac-toe-2)
+- **Email:** eddy.cui@outlook.com
+- **GitHub:** [Project Repository](https://github.com/your-username/tic-tac-toe-2)
 
 ## Consent
 
